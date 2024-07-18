@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
+<!---
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/adjh54ir"
@@ -19,3 +20,4 @@ You can click the Preview link to take a look at your changes.
   height="300"
 />
 </a>
+--->
